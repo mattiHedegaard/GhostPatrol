@@ -1,5 +1,6 @@
 # Ghost Patrole - Pain Distraction using Haptic Feedback and Immersive VR
 
+*Abstract:*
 This project investigates the use of a multisensory virtual reality (VR) experience as a
 distraction method during blood sampling,
 with a focus on reducing perceived pain
